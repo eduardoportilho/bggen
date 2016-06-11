@@ -1,0 +1,22 @@
+{
+  "name": "bggen",
+  "description": "BG generator.",
+  "version": "0.1.0",
+  "author": "Eduardo Pilla Portilho",
+  "keywords": [
+    "canvas",
+    "graphic",
+    "graphics",
+    "image",
+    "images",
+    "easel"
+  ],
+  "dependencies": {
+    "canvas": "^1.3.16",
+    "express": "3.x",
+    "node-easel": "^0.1.2"
+  },
+  "engines": {
+    "node": ">= 0.8.0 && < 1.0.0"
+  }
+}
